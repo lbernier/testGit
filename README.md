@@ -1,2 +1,2 @@
 # testpython
-test de python et django
+test initial Git
