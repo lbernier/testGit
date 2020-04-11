@@ -1,2 +1,2 @@
 # testpython
-test initial Git
+Test integration Git avec Jenlins
