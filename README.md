@@ -1,2 +1,2 @@
 # testpython
-Test integration Git avec Jenlins
+Test integration Git avec Jenkins
